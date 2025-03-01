@@ -3,7 +3,6 @@ import scipy.io.wavfile as wav
 import pyttsx3
 import datetime
 import whisper
-from bs4 import BeautifulSoup
 import spacy
 import re
 
