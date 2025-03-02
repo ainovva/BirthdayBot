@@ -1,4 +1,4 @@
-from apprbp import record_audio
+from apprbp_old import record_audio
 
 def test_recording():
     filename = "test.wav"
